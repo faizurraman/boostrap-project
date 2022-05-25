@@ -1,0 +1,54 @@
+body{
+   
+}
+header{
+   background-image:url(../img/home-banner_3024x.jpg);
+   min-height: 80vh;
+   background-position-x: right;
+   background-size: cover;
+
+}
+.text-heading{
+    color: #fff;
+}
+.text-peragraph h2{
+    font-size: 35px;
+    font-weight: 900;
+    color:#8B3E2F ;
+
+}
+.text-peragraph p{
+    font-size: 20px;
+    color: #8B3E2F;
+}
+
+.btn-color{
+    background-color:#E70061;
+    border-radius: 0;
+    padding: 5px 10px;
+    color: #fff;
+
+}
+.btn-color:hover{
+    background-color:#E70061;
+    color: #fff;
+}
+.text-color{
+ text-align: center;
+  
+}
+.text-color h1 {
+    color:#8B3E2F;
+    font-size: 25px;
+}
+.back-color{
+    background-color: #33D2E9;
+  
+}
+  .back-color a p{
+      font-weight: 900;
+      font-size: 35px;
+      color: #fff;
+
+  }
+
